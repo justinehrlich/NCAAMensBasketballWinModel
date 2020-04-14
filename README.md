@@ -1,6 +1,8 @@
 # NCAAMensBasketballWinModel
  Predicting home advantage for NCAA Div 1 Men's Basketball
 
+## Created by Justin Ehrlich
+
 `NCAAMensBasketballWinModel.ipynb`
 Includes code to model individual wins to estimate home team advantage.
 
